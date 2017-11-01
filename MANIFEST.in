@@ -1,0 +1,3 @@
+graft flasker/templates
+graft flasker/static
+include flasker/schema.sql
